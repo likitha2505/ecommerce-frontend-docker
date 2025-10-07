@@ -1,4 +1,4 @@
-import React from "react";
+mport React from "react";
 import { useCart } from "../context/CartContext";
 import { useNavigate } from "react-router-dom";
 import "./style.css";
